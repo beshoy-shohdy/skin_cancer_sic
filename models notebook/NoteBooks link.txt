@@ -1,0 +1,2 @@
+EfficientNetB6 fine tune with 5 stage : ---> best model 
+https://www.kaggle.com/code/beshoyshohdy/skin-classifier
