@@ -1,0 +1,5 @@
+Data preprocess :
+https://www.kaggle.com/code/beshoyshohdy/magdolin-romisaa-fixed2
+
+Dataset isic and ham10000:
+https://www.kaggle.com/datasets/beshoyshohdy/skin-data

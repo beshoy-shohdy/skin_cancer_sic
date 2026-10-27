@@ -1,0 +1,7 @@
+embedding with google/derm-foundation and ann : https://www.kaggle.com/code/beshoyshohdy/skin-cancer-drem
+
+ConvNeXtTiny : 
+https://www.kaggle.com/code/beshoyshohdy/skin-convnexttiny
+
+EfficientNetB6 fine tune with 5 stage : ---> best model 
+https://www.kaggle.com/code/beshoyshohdy/skin-classifier
