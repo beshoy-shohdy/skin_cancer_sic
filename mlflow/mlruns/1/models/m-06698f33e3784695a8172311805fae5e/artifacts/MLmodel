@@ -1,0 +1,22 @@
+artifact_path: file:///c:/Users/besho/OneDrive/Desktop/sic/mlruns/1/models/m-06698f33e3784695a8172311805fae5e/artifacts
+flavors:
+  python_function:
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.tensorflow
+    python_version: 3.11.9
+  tensorflow:
+    code: null
+    data: data
+    keras_version: 2.21.0
+    model_type: keras
+    save_format: tf
+mlflow_version: 3.17.2
+model_id: m-06698f33e3784695a8172311805fae5e
+model_size_bytes: 121367384
+model_uuid: m-06698f33e3784695a8172311805fae5e
+prompts: null
+run_id: 0fe5bae7d72245e2bed8043600a85b24
+utc_time_created: '2026-10-29 12:19:11.027400'
