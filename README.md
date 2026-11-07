@@ -148,10 +148,6 @@ This project was developed collaboratively as part of Samsung Innovation Campus.
 - **Elsayed Alaa**
 - **Magdolen Hany**
 
-### 🙏 Special Thanks
-
-Special thanks to our facilitator **[Ahmed Gwely](https://www.linkedin.com/in/ahmed-gwely-2589611b0/)** for his continuous support, guidance, and valuable feedback throughout the project.
-
 ## ⚠️ Medical Disclaimer
 
 OncoDerma is an educational and research-oriented AI project. Its predictions and confidence scores are not medical diagnoses and should not be used as a substitute for professional medical advice, examination, or treatment.
